@@ -20,7 +20,7 @@ public class Sleep {
         int sleep;
         sleep = live*8;
         System.out.println("You have been alive for "+live+" days.");
-        System.out.println("Your have slept "+sleep+" hours.");
+        System.out.println("Your have slept "+sleep+" qhours.");
         input.close();
     }
 }
